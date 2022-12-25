@@ -1,0 +1,17 @@
+crop_thresh: 0.40
+attr_thresh: 0.5
+kpt_thresh: 0.2
+visual: True
+warmup_frame: 50
+
+MOT:
+  model_dir: E:/comprehensive_library/Xiaobao/weights/football/mot_ppyoloe_l_36e_pipeline
+  tracker_config: E:/comprehensive_library/Xiaobao/apps/football/tracker/configs/tracker_config_football.yml
+  batch_size: 1
+  enable: True
+
+KPT:
+  model_dir: E:/comprehensive_library/Xiaobao/weights/football/dark_hrnet_w32_256x192
+  batch_size: 8
+
+
