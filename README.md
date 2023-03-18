@@ -164,12 +164,6 @@
 
 
 
-## 怡红院中添加方法
-- ✅ [人像实时抠图](https://arxiv.org/abs/1712.01026)
-- ✅ [WGAN-div](https://arxiv.org/abs/1712.01026)
-- ✅ [layoutgan](https://blog.csdn.net/u012193416/article/details/125716540?spm=1001.2014.3001.5501)
-- ✅ [constlayout](https://blog.csdn.net/u012193416/article/details/125722049?spm=1001.2014.3001.5501)  
-
 
 
 
